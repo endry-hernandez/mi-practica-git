@@ -1,1 +1,1 @@
-actualizado desde github
+Este archivo fue modificado directamente en GitHub.
